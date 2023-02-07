@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: url('../assests/background.jpg')no-repeat;
+    background-size: cover;
+}
+
+
+.center{ 
+    margin: 0 auto 
+}
+
+
+h1{
+    color:darkslateblue;
+    font-family:Georgia, serif;
+    font-size: 100px;
+    font-weight: 900;
+}
